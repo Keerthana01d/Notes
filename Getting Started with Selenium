@@ -1,0 +1,27 @@
+What is Selenium:
+
+    open source 
+    Web-based Automated Testing
+    developed by Jason Huggins in 2004
+    supports automation across different browsers, platforms and programming languages
+        multiple OS
+        multiple Frameworks
+        multiple Programming languages
+        multiple Browsers
+
+    used to automate functional tests and can be integrated with automation test tools such as Maven, Jenkins, & Docker to achieve continuous testing.
+    It can also be integrated with tools such as TestNG, & JUnit for managing test cases and generating reports.
+
+
+Terminologies
+
+
+
+
+
+
+
+
+
+
+    
